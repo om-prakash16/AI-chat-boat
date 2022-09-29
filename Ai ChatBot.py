@@ -75,10 +75,7 @@ if __name__ == "__main__":
         elif "name" in ai.text:
             res = "Hello I am Personal command assistant AI Chatbot, What can i do?"
             
-        elif "happy birthday dear" in ai.text:
-            res = np.random.choice(["Happy birthday to my best friend in the whole wide world!","Cheers to your personal new year! Let’s live it up.",
-                                    "Happy birthday to the person who knows all my secrets","You make the world a better and brighter place. Happy birthday, bestie!",
-                                    "Today should be a national holiday because it’s the day my best friend was born!","Wishing you the best birthday yet!"])
+    
         
         elif "jokes" in ai.text:
                 om =  pyjokes.get_jokes(language="en", category="neutral")
