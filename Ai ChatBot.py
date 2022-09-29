@@ -1,6 +1,3 @@
-from dataclasses import replace
-from email import message
-import pywhatkit
 # for speech-to-text
 from cgitb import text
 from tracemalloc import start
