@@ -1,4 +1,25 @@
 # AI-chat-boat
-An AI chatbot is a virtual agents or intelligent virtual assistant to help human agents by  taking over repetitive and time-consuming communications. 
-It is based on NLP(Natural language processing) for make  human-like conversation. NLP in AI(Artificial Intelligence) to concerned ability to understand text and spoken words in same way human begins.[
-Chatbots are used by 1.4 billion people today![image](https://user-images.githubusercontent.com/93091896/193095355-62c49e68-79e1-4503-8609-22de2f68c044.png)
+This is an AI chatbot program called 'om'
+
+This program allows you to chat with a virtual assistant named Om. Om can understand your voice and respond to your questions and requests.
+
+Here's what Om can do:
+
+Answer your questions using a large language model.
+Tell you jokes.
+Open websites like Google, Youtube, and Chrome for you.
+Tell you the current time.
+Respond politely to your greetings and goodbyes.
+How to use Om:
+
+Save this code as a Python file (e.g., om_chatbot.py).
+Run the program using Python (e.g., python om_chatbot.py).
+Speak to Om! When Om is listening, it will say "Listening...".
+Om will respond to your requests using text-to-speech.
+Things to know:
+
+To wake Om up, you can say its name "om" followed by your request.
+Om can understand basic requests and answer questions in a conversational way.
+If Om doesn't understand something, it will ask you to "come again".
+You can say "exit" or "close" to stop the program.
+
